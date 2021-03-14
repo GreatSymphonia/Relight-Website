@@ -21,8 +21,9 @@ and open the template in the editor.
             </div>
             <div class="WrittenWork">
                 <h1 class="greatHeader">À Propos</h1>
-                <p class="about">Site web créé et designé par GreatSymphonia <br> GreatSymphonia@gmail.com</p>
-                <p class="about">Discord: GreatSymphonia#5634</p>
+                <p class="about">Site web créé et designé par GreatSymphonia <br><br><a class="about" href="mailto:GreatSymphonia@gmail.com">GreatSymphonia@gmail.com</a></p>
+                <p class="about">Discord: GreatSymphonia#5634<br></p>
+                <p class="about">Pour toute question en rapport avec les TI ou la mise en place d'une telle solution pour votre propre alliance, me contacter via Discord</p>
             </div>
         </div>
 

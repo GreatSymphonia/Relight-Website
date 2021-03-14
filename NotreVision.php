@@ -21,7 +21,7 @@ and open the template in the editor.
             </div>
             <div class="WrittenWork">
                 <h1 class="greatHeader">Bienvenue chez la Famille RELIGHT</h1>
-                <p class="homeText">Ici, on recherche à former la meilleure communauté GGE sur le serveur FR1 - Purement et simplement! </p>
+                <p class="homeText">Ici, on cherche à former la meilleure communauté GGE sur le serveur FR1 - Purement et simplement! </p>
                 <p class="homeText">Notre Famille est unie et notre puissance est grande, venez chercher soutien et réconfort à notre table!  Nous n'avons pas peur de montrer notre puissance, nous savons jouer, nous aimons jouer, nous sommes des joueurs d'expérience prêts à en découdre au besoin!</p>
                 <p class="homeText">Nous rendons ici hommage à notre consoeur Corinne décédée au cours de son ultime combat contre le cancer, nos pensées sont avec toi.</p>
                 <p class="homeText">Notre Famille est en constante évolution!  Vous souhaitez nous joindre, nous vous accueillerons à bras ouverts!  Pour peu que vous soyez de bonne foi, actif sur le jeu et présent dans les événements organisés par nos dirigeants, vous avez votre place parmis nous</p>

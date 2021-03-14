@@ -20,8 +20,11 @@ and open the template in the editor.
                 <a style="float: right;" href="APropos.php">À Propos</a>
             </div>
             <div class="WrittenWork">
-                <h1 class="greatHeader">Bienvenue chez la Famille RELIGHT</h1>
-                <p class="homeText">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <h1 class="greatHeader">Nos Alliances</h1>
+                <h2>RELIGHT - L'originale</h2>
+                <p class="homeText">Fondée par Mørøs (aujourd'hui SYNTHESIS) en Janvier 2020, cette alliance a connu une croissance fulgurante.  Elle est la première de la famille et ses membres de longue date comptent limounette et GreatSymphonia</p>
+                <h2>RELIGHT 2 - La première extension</h2>
+                <p class="homeText">C'est dans l'optique de créer une extension à RELIGHT et de fonder éventuellement la famille RELIGHT que cette alliance a vu le jour.  Actuellement, elle est sous la direction de SYNTHSIS mais aura bientôt un nouveau chef dès que ce dernier reprendra les commandes de RELIGHT</p>
             </div>
         </div>
 
