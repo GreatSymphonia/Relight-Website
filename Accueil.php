@@ -4,7 +4,7 @@ To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
 and open the template in the editor.
 -->
-<html>
+<html lang="fr">
     <head>
         <link rel="stylesheet" href="Styles.css">
         <link rel="icon" href="WebIcon.ico">
@@ -18,6 +18,7 @@ and open the template in the editor.
                 <a href="Accueil.php">Accueil</a>
                 <a href="LesAlliances.php">Les Alliances</a>
                 <a href="NotreVision.php">Notre Vision</a>
+                <a href="NosMembres.php">Nos Membres</a>
                 <a style="float: right;" href="APropos.php">À Propos</a>
             </div>
             <div class="WrittenWork">
