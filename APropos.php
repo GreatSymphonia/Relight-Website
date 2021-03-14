@@ -20,7 +20,9 @@ and open the template in the editor.
                 <a style="float: right;" href="APropos.php">À Propos</a>
             </div>
             <div class="WrittenWork">
-                <h1 class="greatHeader">Bienvenue chez la Famille RELIGHT</h1>
+                <h1 class="greatHeader">À Propos</h1>
+                <p class="about">Site web créé et designé par GreatSymphonia <br> GreatSymphonia@gmail.com</p>
+                <p class="about">Discord: GreatSymphonia#5634</p>
             </div>
         </div>
 

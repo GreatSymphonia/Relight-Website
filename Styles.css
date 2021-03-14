@@ -55,6 +55,11 @@ p.homeText {
     font-size: large;
 }
 
+p.about {
+    text-align: justify;
+    font-size: x-large;
+}
+
 h1.greatHeader{
     text-align: center;
 }

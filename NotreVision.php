@@ -21,8 +21,11 @@ and open the template in the editor.
             </div>
             <div class="WrittenWork">
                 <h1 class="greatHeader">Bienvenue chez la Famille RELIGHT</h1>
-                <p class="homeText">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                <iframe src="https://discord.com/widget?id=816419489134018640&theme=dark" style="opacity: 100%;" width="350" height="450" allowtransparency="false" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+                <p class="homeText">Ici, on recherche à former la meilleure communauté GGE sur le serveur FR1 - Purement et simplement! </p>
+                <p class="homeText">Notre Famille est unie et notre puissance est grande, venez chercher soutien et réconfort à notre table!  Nous n'avons pas peur de montrer notre puissance, nous savons jouer, nous aimons jouer, nous sommes des joueurs d'expérience prêts à en découdre au besoin!</p>
+                <p class="homeText">Nous rendons ici hommage à notre consoeur Corinne décédée au cours de son ultime combat contre le cancer, nos pensées sont avec toi.</p>
+                <p class="homeText">Notre Famille est en constante évolution!  Vous souhaitez nous joindre, nous vous accueillerons à bras ouverts!  Pour peu que vous soyez de bonne foi, actif sur le jeu et présent dans les événements organisés par nos dirigeants, vous avez votre place parmis nous</p>
+                <p class="homeText">Si vous êtes chef d'une alliance respectable et cherchez à vous joindre à la famille, n'hésitez pas à contacter la haute direction, nous analyserons avec sérieux votre demande et nous nous assurerons que cette alliance s'instraurera dans notre intérêt commun.</p>
             </div>
         </div>
 
