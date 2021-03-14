@@ -7,8 +7,12 @@ and open the template in the editor.
 <html lang="fr">
     <head>
         <link rel="stylesheet" href="Styles.css">
-        <link rel="icon" href="WebIcon.ico">
+        <link rel="shortcut icon" href="/favicon.ico">
         <meta charset="UTF-8">
+        <meta name="keywords" content="RELIGHT, GGE, GoodGame, Empire, GGE, Good, Game, relight-, relight-gge, re, light, alliance, famille, discord, communauté">
+        <meta name="description" content="Site web officiel de la Famille d'alliances RELIGHT.">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content="GreatSymphonia">
         <title>Notre Vision</title>
     </head>
     <body>
